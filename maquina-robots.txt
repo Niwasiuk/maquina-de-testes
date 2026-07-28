@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maquina.oficinaeficiente.com.br/sitemap.xml
